@@ -1,0 +1,12 @@
+{
+  "name": "application-name",
+  "version": "0.0.1",
+  "scripts": {
+    "start": "node Socketio"
+  },
+  "dependencies": {
+    "express": "~4.13.1",
+    "socket.io": "*",
+    "sodium": "1.1.12"
+  }
+}
